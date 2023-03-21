@@ -5,3 +5,6 @@ Some guided and personal projects related to machine learning and deep learning.
     * Skills : Convolutional Neural Network, Autoencoder, Python Programming, PyTorch.
 2. Deep Learning with PyTorch : Facial Expression Recognition. Load pretrained SOTA model to train on facial expression dataset. Classify on the basis of expression into 7 different classes.
     * Skills : Convolutional Neural Nework, Classifier
+3. Deep Learning with PyTorch : Siamese Network. Trained a network using Triplet loss function. Create Anchor, Positive, Negative image datase, which was used as input to the triplet loss function.
+    * Applications : Face Recognition, Signature Checking, Person re-identification, etc.
+    * Skills : Pytorch, Triplet Loss function, State of the Art architecture - efficientnet_b0
