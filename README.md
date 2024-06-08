@@ -8,3 +8,4 @@ Some guided and personal projects related to machine learning and deep learning.
 3. Deep Learning with PyTorch : Siamese Network. Trained a network using Triplet loss function. Create Anchor, Positive, Negative image datase, which was used as input to the triplet loss function.
     * Applications : Face Recognition, Signature Checking, Person re-identification, etc.
     * Skills : Pytorch, Triplet Loss function, State of the Art architecture - efficientnet_b0
+4. Naive Bayes Classifier
