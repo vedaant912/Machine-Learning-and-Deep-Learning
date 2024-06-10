@@ -9,3 +9,4 @@ Some guided and personal projects related to machine learning and deep learning.
     * Applications : Face Recognition, Signature Checking, Person re-identification, etc.
     * Skills : Pytorch, Triplet Loss function, State of the Art architecture - efficientnet_b0
 4. Naive Bayes Classifier
+5. Linear Regression
