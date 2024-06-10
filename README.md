@@ -10,3 +10,5 @@ Some guided and personal projects related to machine learning and deep learning.
     * Skills : Pytorch, Triplet Loss function, State of the Art architecture - efficientnet_b0
 4. Naive Bayes Classifier
 5. Linear Regression
+    * Multiple Linear Regression
+    * Multicollinearity Linear Regression
