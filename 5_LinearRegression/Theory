@@ -1,0 +1,9 @@
+R Square and Adjusted R Square
+- SSres : Sum of Residual or Error
+- SStot : Sum of Average total
+- R_Square = 1 - SSres/SStot 
+- R square is used to measure the goodness of the best fit line
+- R_square_adjusted = 1 - (1 - R^2)(N - 1)/N-p-1
+  - R^2 : Sample R_square
+  - p : number of predictors
+  - N : Total sample size
