@@ -7,3 +7,5 @@ R Square and Adjusted R Square
   - R^2 : Sample R_square
   - p : number of predictors
   - N : Total sample size
+
+Bias and Variance / Overfitting and Undrefitting
