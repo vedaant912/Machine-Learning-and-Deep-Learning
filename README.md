@@ -12,3 +12,5 @@ Some guided and personal projects related to machine learning and deep learning.
 5. Linear Regression
     * Multiple Linear Regression
     * Multicollinearity Linear Regression
+6. SVM (Support Vector Machine)
+7. K-Means Clustering
