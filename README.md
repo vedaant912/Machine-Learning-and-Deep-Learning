@@ -8,7 +8,7 @@ Some guided and personal projects related to machine learning and deep learning.
     * Skills : Pytorch, Triplet Loss function, State of the Art architecture - efficientnet_b0
 3. [Deep Learning with PyTorch : Facial Expression Recognition](https://github.com/vedaant912/Machine-Learning-and-Deep-Learning/blob/main/3_Copy_of_Facial_Expression_Recognition_with_PyTorch.ipynb). Load pretrained SOTA model to train on facial expression dataset. Classify on the basis of expression into 7 different classes.
     * Skills : Convolutional Neural Nework, Classifier
-4. Naive Bayes Classifier
+4. [Naive Bayes Classifier](https://github.com/vedaant912/Machine-Learning-and-Deep-Learning/tree/main/4_NaiveBayes)
 5. [Linear Regression](https://github.com/vedaant912/Machine-Learning-and-Deep-Learning/tree/main/5_LinearRegression)
     * Multiple Linear Regression
     * Multicollinearity Linear Regression
