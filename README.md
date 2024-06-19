@@ -14,3 +14,6 @@ Some guided and personal projects related to machine learning and deep learning.
     * Multicollinearity Linear Regression
 6. SVM (Support Vector Machine)
 7. K-Means Clustering
+    * Using clustering class and kmeans class implemented K-means clustering algorithm
+    * Usage of dataclass for Clustering : locations (centroid), vectors
+    * matplotlib scatter plot to visualize all the data points with 5 centroids.
