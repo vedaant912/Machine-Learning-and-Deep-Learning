@@ -1,5 +1,7 @@
 # Machine-Learning-and-Deep-Learning
-Some guided and personal projects related to machine learning and deep learning. Learning ML and DL algorithms and techniques to imporve my skills.
+🚀 Exploring Machine Learning & Deep Learning | Personal and Guided Projects
+
+Welcome to my GitHub! I'm passionate about diving deep into the world of machine learning (ML) and deep learning (DL). Here, you'll find a collection of my personal and guided projects where I experiment with various ML/DL algorithms and techniques to enhance my skills.
 
 1. [Image Segmentation with Pytorch](https://github.com/vedaant912/Machine-Learning-and-Deep-Learning/blob/main/1_Copy_of_Deep_Learning_with_PyTorch_ImageSegmentation.ipynb). Used Unet Architecture to get the segmentaiton of the image. For this instance, took segmentation of human. Trained on a dataset consisting of human.
     * Skills : Convolutional Neural Network, Autoencoder, Python Programming, PyTorch.
