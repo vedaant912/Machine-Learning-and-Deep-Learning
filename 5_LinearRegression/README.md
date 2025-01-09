@@ -51,3 +51,21 @@
     - Additivity
     - Feature Selection
     - Overfitting
+- _How to detect Multicollinearity?_
+    - Correlation Matrix
+    - VIF (Variance Inflation Factor)
+
+ ### Evaluation Metrics for Linear Regression
+ - _Mean Square Error_ : Sensitive to outliers as large errors contribute significantly to the score.
+ - _Mean Absolute Error_ : Not sensitive to outliers
+ - _Root Mean Squared Error_
+ - _R-Squared_:
+    - A statistics that indicates how much variation the developed model can explain or capture. 0 < R_2 < 1.
+    - High R_Squared value is preferrable.
+    - Residual Sum of Squares
+    - Total Sum of Squares
+    - Simple Explanation : Like explaining a movie to your friend, if your explanation covers 80% of the storyline, then your R-squared is 0.80! Better the explanation higher the R-squared.
+- _Adjusted R-Squred_:
+    - It takes into consideration the number of predictors in the model and penalizes the model for irrelevant prdictors that don't contribute to explain the variance of the dependent variables.
+    - Prevenet overfitting
+    - 
