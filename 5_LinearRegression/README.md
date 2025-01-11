@@ -68,4 +68,19 @@
 - _Adjusted R-Squred_:
     - It takes into consideration the number of predictors in the model and penalizes the model for irrelevant prdictors that don't contribute to explain the variance of the dependent variables.
     - Prevenet overfitting
-    - 
+
+### Regularization Techniques
+- Lasso Regularizatino (L1 Regularization)
+- Ridge Regression (L2 Regularization)
+- Elastic Net Regressino (L1 + L2)
+
+### Advantages
+- Simple, easy to understand and implement.
+- Handle large datasets
+- Robut to outliers
+- Good baseline model for comparison with others
+
+### Disadvantages
+- Assumes linear relationship
+- Sensitive to multicollineariy
+- Overfitting and underfitting
