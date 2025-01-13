@@ -48,3 +48,7 @@
 >Precision and Recall values greatly affect the selection of threshold values
 >Ideally way aim for precision recall value being 1
 
+# Cost function
+- Cost function is a mathematical function that calculates the difference between the target actual values and the predicted values. 
+### Cross Entropy Loss / Log Loss
+- J = - yi * (log(h(x)) + (1-yi)(log(1-h(x)))
